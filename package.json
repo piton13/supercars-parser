@@ -1,5 +1,5 @@
 {
-  "name": "supercars-perser",
+  "name": "supercars-parser",
   "version": "0.0.1",
   "description": "Parse offers of supercars from dealership sites",
   "author": "MIM",
@@ -7,15 +7,15 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piton13/supercars-perser.git"
+    "url": "git+https://github.com/piton13/supercars-parser.git"
   },
   "keywords": [
     "Supercars"
   ],
   "bugs": {
-    "url": "https://github.com/piton13/supercars-perser/issues"
+    "url": "https://github.com/piton13/supercars-parser/issues"
   },
-  "homepage": "https://github.com/piton13/supercars-perser#readme",
+  "homepage": "https://github.com/piton13/supercars-parser#readme",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
